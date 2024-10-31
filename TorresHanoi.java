@@ -1,5 +1,4 @@
-public class TorresHanoi
-{
+public class TorresHanoi {
     public String  moverTorresHanoi(int nivel) {
         return moverTorresHanoi(nivel,'A','B','C');
     }
