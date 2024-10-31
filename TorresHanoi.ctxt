@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TorresHanoi
+comment1.params=nivel
+comment1.target=java.lang.String\ moverTorresHanoi(int)
+comment2.params=nivel\ origen\ aux\ destino
+comment2.target=java.lang.String\ moverTorresHanoi(int,\ char,\ char,\ char)
+comment3.params=nivel\ origen\ destino
+comment3.target=java.lang.String\ reporte(int,\ char,\ char)
+numComments=4
